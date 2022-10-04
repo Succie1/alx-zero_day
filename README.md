@@ -1,2 +1,2 @@
 A readme file
-This is an updateed file
+This is an updated file
